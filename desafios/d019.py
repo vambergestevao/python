@@ -9,7 +9,6 @@ print('====== DESAFIO 19 ======')
 # escolhido = random.choice(lista)
 # print('O aluno escolhido foi {}'.format(escolhido))
 
-
 from random import choice
 al1 = str(input('Primeiro aluno: '))
 al2 = str(input('Segundo aluno: '))

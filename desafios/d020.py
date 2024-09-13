@@ -10,7 +10,6 @@ print('====== DESAFIO 20 ======')
 # print('A ordem de apresentação será ')
 # print(lista)
 
-
 from random import shuffle
 a1 = str(input('Primeiro aluno: '))
 a2 = str(input('Segundo aluno: '))

@@ -5,7 +5,6 @@ print('====== EXERCÍCIO 04 ======')
 # raiz = math.sqrt(n)
 # print('A raiz de {} é igual a {:.2f}'.format(n, raiz))
 
-
 from math import sqrt, floor
 n = int(input('Digite um número: '))
 raiz = sqrt(n)
