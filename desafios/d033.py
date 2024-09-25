@@ -1,4 +1,6 @@
-print('====== DESAFIO 33 ======')
+print('\033[1;37m====== DESAFIO 33 ======\033[m')
+
+print('\033[1;33m- Condições e Operadores Aritméticos -\033[m')
 
 a = int(input('Primeiro valor: '))
 b = int(input('Segundo valor: '))

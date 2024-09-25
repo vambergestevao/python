@@ -1,8 +1,10 @@
-print('====== DESAFIO 35 ======')
+print('\033[1;37m====== DESAFIO 35 ======\033[m')
 
-print('-=' * 20)
+print('\033[1;33m- Condições e Operadores Aritméticos -\033[m')
+
+print('-=-' * 20)
 print('Analisador de Triângulos')
-print('-=' * 20)
+print('-=-' * 20)
 a = float(input('Primeiro segmento: '))
 b = float(input('Segundo segmento: '))
 c = float(input('Terceiro segmento: '))

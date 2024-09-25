@@ -1,4 +1,6 @@
-print('====== DESAFIO 12 ======')
+print('\033[1;37m====== DESAFIO 12 ======\033[m')
+
+print('\033[1;33m- Operadores Aritméticos -\033[m')
 
 val = float(input('Qual é o preço do produto? R$ '))
 

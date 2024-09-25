@@ -1,4 +1,6 @@
-print('====== DESAFIO 15 ======')
+print('\033[1;37m====== DESAFIO 15 ======\033[m')
+
+print('\033[1;33m- Operadores Aritméticos -\033[m')
 
 # custo do veiculo = R$60 pelo dia
 # custo por km = R$0.15 por km rodado

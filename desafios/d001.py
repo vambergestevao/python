@@ -1,4 +1,4 @@
-print('====== DESAFIO 01 ======')
+print('\033[1;37m====== DESAFIO 01 ======\033[m')
 
 print('Hello, World!')
 

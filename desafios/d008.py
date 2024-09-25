@@ -1,4 +1,6 @@
-print('====== DESAFIO 08 ======')
+print('\033[1;37m====== DESAFIO 08 ======\033[m')
+
+print('\033[1;33m- Operadores Aritméticos -\033[m')
 
 m = float(input('Uma distância em metros: '))
 

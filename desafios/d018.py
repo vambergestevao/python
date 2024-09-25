@@ -1,4 +1,6 @@
-print('====== DESAFIO 18 ======')
+print('\033[1;37m====== DESAFIO 18 ======\033[m')
+
+print('\033[1;33m- Módulos -\033[m')
 
 # import math
 # an = float(input('Digite o ângulo que você deseja: '))

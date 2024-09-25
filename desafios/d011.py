@@ -1,9 +1,11 @@
-print('====== DESAFIO 11 ======')
+print('\033[1;37m====== DESAFIO 11 ======\033[m')
+
+print('\033[1;33m- Operadores Aritméticos -\033[m')
 
 larg = float(input('Largura da parede: '))
 alt = float(input('Altura da parede: '))
 
-# Sabendo que cada litro de tinta, pinta um área de 2m².
+# Sabendo que cada litro de tinta, pinta uma área de 2m².
 
 ar = larg * alt
 lit = ar / 2

@@ -1,4 +1,6 @@
-print('====== DESAFIO 10 ======')
+print('\033[1;37m====== DESAFIO 10 ======\033[m')
+
+print('\033[1;33m- Operadores Aritméticos -\033[m')
 
 n = float(input('Quanto você tem na carteira? R$ '))
 

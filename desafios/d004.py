@@ -1,4 +1,6 @@
-print('====== DESAFIO 04 ======')
+print('\033[1;37m====== DESAFIO 04 ======\033[m')
+
+print('\033[1;33m- Tipos Primitivos e Saída de Dados -\033[m')
 
 n = input('Digite algo: ')
 print('O tipo primitivo desse valor é {}'.format(type(n)))

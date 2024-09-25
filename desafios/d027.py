@@ -1,4 +1,6 @@
-print('====== DESAFIO 27 ======')
+print('\033[1;37m====== DESAFIO 27 ======\033[m')
+
+print('\033[1;33m- Cadeias de Texto e Operadores Aritméticos -\033[m')
 
 nome = str(input('Digite seu nome completo: ')).strip()
 print('Muito prazer em te conhecer!')

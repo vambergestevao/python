@@ -1,4 +1,6 @@
-print('====== DESAFIO 31 ======')
+print('\033[1;37m====== DESAFIO 31 ======\033[m')
+
+print('\033[1;33m- Condições e Operadores Aritméticos -\033[m')
 
 dist = float(input('Qual é a distância da sua viagem? '))
 print('Você está prestes a começar uma viagem de {:.1f}Km.'.format(dist))

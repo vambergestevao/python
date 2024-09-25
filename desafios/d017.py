@@ -1,4 +1,6 @@
-print('====== DESAFIO 17 ======')
+print('\033[1;37m====== DESAFIO 17 ======\033[m')
+
+print('\033[1;33m- Módulos -\033[m')
 
 # from math import sqrt
 # co = float(input('Comprimento do cateto oposto: '))

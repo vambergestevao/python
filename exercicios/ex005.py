@@ -1,4 +1,6 @@
-print('====== EXERCÍCIO 05 ======')
+print('\033[1;37m====== EXERCÍCIO 05 ======\033[m')
+
+print('\033[1;33m- Módulo (Random) e Emoji -\033[m')
 
 import random
 n = random.randint(1, 10)

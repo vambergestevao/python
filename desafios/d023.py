@@ -1,4 +1,6 @@
-print('====== DESAFIO 23 ======')
+print('\033[1;37m====== DESAFIO 23 ======\033[m')
+
+print('\033[1;33m- Operadores Aritméticos -\033[m')
 
 num = int(input('Informe um número: '))
 u = num // 1 % 10

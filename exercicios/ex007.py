@@ -1,11 +1,13 @@
-print('====== EXERCÍCIO 07 ======')
+print('\033[1;37m====== EXERCÍCIO 07 ======\033[m')
+
+print('\033[1;33m- Condições (Simples, Compostas, Simplificadas) -\033[m')
 
 # Condições Simples
 nome = str(input('Digite seu nome: ')).strip().title()
 if nome == 'Maria':
     print('Seu nome é lindo!')
 print('Prazer em te conhecer, {}!'.format(nome))
-print('--- Fim ---')
+print('\033[0;33m--- Fim ---\033[m')
 
 # Condições Compostas
 n1 = float(input('Digite a primeira nota: '))

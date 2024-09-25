@@ -1,4 +1,6 @@
-print('====== EXERCÍCIO 04 ======')
+print('\033[1;37m====== EXERCÍCIO 04 ======\033[m')
+
+print('\033[1;33m- Módulos -\033[m')
 
 # import math
 # n = int(input('Digite um número: '))

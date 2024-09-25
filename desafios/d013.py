@@ -1,4 +1,6 @@
-print('====== DESAFIO 13 ======')
+print('\033[1;37m====== DESAFIO 13 ======\033[m')
+
+print('\033[1;33m- Operadores Aritméticos -\033[m')
 
 sal = float(input('Qual é o salário do funcionário? R$ '))
 

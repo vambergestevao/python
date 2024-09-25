@@ -1,4 +1,6 @@
-print('====== DESAFIO 20 ======')
+print('\033[1;37m====== DESAFIO 20 ======\033[m')
+
+print('\033[1;33m- Módulos / Lista -\033[m')
 
 # import random
 # a1 = str(input('Primeiro aluno: '))

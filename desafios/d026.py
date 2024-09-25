@@ -1,4 +1,6 @@
-print('====== DESAFIO 26 ======')
+print('\033[1;37m====== DESAFIO 26 ======\033[m')
+
+print('\033[1;33m- Cadeias de Texto e Operadores Aritméticos -\033[m')
 
 frase = str(input('Digite uma frase: ')).strip().upper()
 print('A letra A aparece {} vezes na frase.'.format(frase.count('A')))

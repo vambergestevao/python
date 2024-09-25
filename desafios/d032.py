@@ -1,4 +1,6 @@
-print('====== DESAFIO 32 ======')
+print('\033[1;37m====== DESAFIO 32 ======\033[m')
+
+print('\033[1;33m- Módulos, Condições e Operadores Aritméticos -\033[m')
 
 from datetime import date
 ano = int(input('Que ano quer analisar? Coloque 0 para analisar o ano atual: '))

@@ -1,4 +1,6 @@
-print('====== DESAFIO 22 ======')
+print('\033[1;37m====== DESAFIO 22 ======\033[m')
+
+print('\033[1;33m- Cadeias de Texto -\033[m')
 
 nome = str(input('Digite seu nome completo: ')).strip()
 print('Analisando seu nome...')
