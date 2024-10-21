@@ -14,7 +14,7 @@ print('Fim!')
 
 print('\033[1;31m=-\033[m' * 15)
 
-for c in range(6, 0, -1): # (-1) Contagem inversa
+for c in range(6, 0, -1): # (-1) Contagem Regressiva
     print(c)
 print('Fim!')
 
