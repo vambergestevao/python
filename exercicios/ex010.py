@@ -48,8 +48,8 @@ print('Fim!')
 
 print('\033[1;31m=-\033[m' * 15)
 
-s = 0
+s = 0 # Acumulador
 for c in range(0, 4):
     n = int(input('Digite um valor: '))
-    s += n # s = s + n
+    s += n # s = s + n (Acumulador)
 print('O somatório de todos os valores foi {}'.format(s))
