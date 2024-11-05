@@ -1,11 +1,11 @@
-print('\033[1;37m====== DESAFIO 54 ======\033[m')
+print('\033[1;37m====== DESAFIO 55 ======\033[m')
 
 print('\033[1;33m- Estrutura de Repetição FOR -\033[m')
 
 maior = 0
 menor = 0
 for p in range(1, 6):
-    peso = float(input('Peso da {}° pessoa: '.format(p)))
+    peso = float(input('Peso da {}ª pessoa: '.format(p)))
     if p == 1:
         maior = peso
         menor = peso
