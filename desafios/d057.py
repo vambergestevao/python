@@ -1,0 +1,8 @@
+print('\033[1;37m====== DESAFIO 57 ======\033[m')
+
+print('\033[1;33m- Estrutura de Repetição WHILE -\033[m')
+
+sexo = str(input('Informe seu sexo: [M/F] ')).strip().upper()[0]
+while sexo not in 'MmFf':
+    sexo = str(input('Dados inválidos. Por favor, informe seu sexo: ')).strip().upper()[0]
+print('Sexo {} registrado com sucesso'.format(sexo))
