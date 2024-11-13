@@ -8,7 +8,7 @@ print('\033[1;36m=\033[m' * 20)
 
 p = int(input('Primeiro termo: '))
 r = int(input('Razão: '))
-d = p + (10 - 1) * r # enésimo termo de uma pa
+d = p + (10 - 1) * r # enésimo termo de uma PA
 for c in range(p, d+r, r):
     print(c, end=' -> ')
 print('ACABOU')
